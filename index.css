@@ -1,0 +1,64 @@
+h1{
+	color: goldenrod;
+	display: block;
+	text-align: center;
+	font-size: 70px;
+	text-shadow: 2px 5px 4px black;
+}
+body{
+	background-image: url("https://media.istockphoto.com/id/1206505233/vector/poker-table-background-in-green-color.jpg?s=612x612&w=0&k=20&c=1-WRVj64dMfBuLFHjm08rCi3jsEa-7NGZwOhxBlyUdY=");
+	background-size: cover;
+}
+#message-el{
+	color: black;
+	font-weight: bold;
+background-size: cover;
+text-align: center;
+font-size: 30px;
+color: white;
+font-family: sans-serif;
+font-style: italic;
+}
+.game{
+	text-align: center;
+	font-size: 30px;
+	margin-left: 30px;
+	margin-right: 120px;
+color: white;
+}
+#btn{
+	font-size: 20px;
+	display: block;
+	text-align: center;
+	width: 150px;
+	height: 50px;
+	background: goldenrod;
+	color: #016f32;
+	margin-left: auto;
+	margin-right: auto;
+	border: 2px solid #016f32;
+	border-radius: 20px;
+	padding: 5px;
+	font-weight: bold;
+	margin-bottom: 10px;
+}
+#btn1{
+	font-size: 20px;
+	display: block;
+	text-align: center;
+	width: 150px;
+	height: 50px;
+	background: goldenrod;
+	color: #016f32;
+	margin-left: auto;
+	margin-right: auto;
+	border: 2px solid #016f32;
+	border-radius: 20px;
+	padding: 5px;
+	font-weight: bold;
+}
+#player{
+text-align: center;
+color: white;
+font-size: 20px;
+}
